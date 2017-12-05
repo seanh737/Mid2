@@ -10,4 +10,5 @@ public class Func1Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func1);
     }
+    int [] icons = {R.drawable.photo};
 }
